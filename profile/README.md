@@ -18,8 +18,6 @@ Using a classification model trained on historical customer and campaign data, *
 
 Konversen helps reduce wasted calls, increase attention on high-potential prospects, and strengthen data-driven decision-making within banking sales operations.
 
-> ⭐ *Our mission is to empower banking sales teams with intelligent insights that create real impact.*
-
 ---
 
 ## 👥 Team Members (A25-CS079)
@@ -45,7 +43,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
     <td>React & Back-End with AI</td>
     <td>Sekolah Tinggi Ilmu Komputer PolTek Cirebon</td>
     <td>
-      <a href="https://linkedin.com/in/username" target="_blank">
+      <a href="https://www.linkedin.com/in/ilham-ramadhan-tech" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
@@ -57,7 +55,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
     <td>React & Back-End with AI</td>
     <td>Universitas Pendidikan Indonesia</td>
     <td>
-      <a href="https://linkedin.com/in/username" target="_blank">
+      <a href="https://www.linkedin.com/in/rizka-alfadilla" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
@@ -69,7 +67,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
     <td>React & Back-End with AI</td>
     <td>Universitas Telkom Purwokerto</td>
     <td>
-      <a href="https://linkedin.com/in/username" target="_blank">
+      <a href="https://www.linkedin.com/in/rizkyhanifaafania" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
@@ -81,7 +79,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
     <td>Machine Learning</td>
     <td>Universitas Pendidikan Indonesia</td>
     <td>
-      <a href="https://linkedin.com/in/username" target="_blank">
+      <a href="https://www.linkedin.com/in/davin-kusuma22" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
@@ -93,7 +91,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
     <td>Machine Learning</td>
     <td>Universitas Pendidikan Indonesia</td>
     <td>
-      <a href="https://linkedin.com/in/username" target="_blank">
+      <a href="https://www.linkedin.com/in/rifdahhr" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
