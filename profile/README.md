@@ -109,8 +109,8 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
 
 ### 🔶 **Konversen - Back End**
 
-REST API for lead management, scoring engine, authentication, and data pipeline.     
-<a href="https://github.com/konversen-dev/machine-backend" target="_blank">   
+REST API for lead management, scoring, authentication, and data pipeline.     
+<a href="https://github.com/konversen-dev/konversen-backend" target="_blank">   
 <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>
 
