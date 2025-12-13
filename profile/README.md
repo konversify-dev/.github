@@ -109,7 +109,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
 
 ### 🔶 **Konversen - Back End**
 
-REST API for lead management, scoring, authentication, and data pipeline.     
+REST API for managing leads, campaigns, accounts, authentication, and data pipelines.  
 <a href="https://github.com/konversen-dev/konversen-backend" target="_blank">   
 <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>
@@ -128,7 +128,7 @@ Interactive dashboard for banking sales, complete with scoring visualization and
 ### 🔶 **Konversen - Machine Learning**
 
 Machine Learning models for predictive lead scoring.    
-<a href="https://github.com/konversen-dev/machine-learning" target="_blank">  
+<a href="https://github.com/konversen-dev/konversen-machine-learning" target="_blank">  
 <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
